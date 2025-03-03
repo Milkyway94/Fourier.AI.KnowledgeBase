@@ -1,8 +1,8 @@
 Mandala Retreats Kim Bôi
 Cách Hà Nội chỉ 90 phút di chuyển, tọa lạc tại "thủ phủ khoáng nóng" Kim Bôi, Mandala Retreats Kim Bôi chính là điểm dừng chân tuyệt vời cho những du khách muốn tìm về với thiên nhiên theo một cách tinh tế và sang trọng.
-
+<\>
 Không chỉ là điểm kết nối dòng chảy của văn hóa địa phương, Mandala Retreats Kim Bôi mở ra không gian sinh thái kết nối với đất rừng Tây Bắc và mạch nguồn khoáng nóng.
-
+/
 AN TOÀN VÀ BẢO MẬT
 SAFETY AND SECURITY
 NGAY SAU KHI NHẬN PHÒNG
@@ -22,16 +22,19 @@ Khi phát hiện đám cháy hoặc khói, hãy đập vỡ kính của điểm 
 bằng cách bấm vào Trung tâm Dịch vụ Khách hàng trên điện thoại.
 Upon detecting any fire or smoke, break the glass of the nearest fire alarm call point and call for
 help by pressing Guest Service Center on the telephone.
+<\>
 2. Hãy dập lửa nếu có thể / If possible, put out the fire
 Sử dụng bình chữa cháy hoặc vòi chữa cháy gần nhất để dập lửa mà không gây nguy hiểm cho bản
 thân.
 Use the nearest fire extinguisher or fire hose reel to put out the fire, without putting yourself at
 risk.
+<\>
 3. Sơ tán / Evacuate
 Nếu ngọn lửa vượt ra ngoài tầm kiểm soát, hãy đóng tất cả các cửa phía sau bạn và rời khỏi tòa
 nhà ngay lập tức qua cầu thang thoát hiểm. Tuyệt đối không sử dụng thang máy.
 Should the fire get out of control, close all doors behind you and leave the building immediately
 via the exit staircase. Do not use the elevators.
+<\>
 NẾU BẠN NGHE THẤY CẢNH BÁO CHÁY
 IF YOU HEAR THE FIRE ALARM
  1A. Báo động cháy đầu tiên / First fire alarm
@@ -52,6 +55,7 @@ Trong trường hợp có khói, hãy cúi sát sàn nhà và bò đến lối t
 các biển chỉ dẫn EXIT ở tầng.
 In the event of smoke, please keep yourself close to the floor and crawl to the nearest fire exit, then
 following the EXIT directional signs located at floor level.
+<\>
 2. Để lại đồ đạc và di tản / Do not attempt to pack belongings
 Không cố gắng đóng gói đồ đạc trong trường hợp hỏa hoạn. Hãy ưu tiên di tản khỏi khu vực có
 đám cháy.
