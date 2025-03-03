@@ -2,7 +2,7 @@ Mandala Retreats Kim Bôi
 Cách Hà Nội chỉ 90 phút di chuyển, tọa lạc tại "thủ phủ khoáng nóng" Kim Bôi, Mandala Retreats Kim Bôi chính là điểm dừng chân tuyệt vời cho những du khách muốn tìm về với thiên nhiên theo một cách tinh tế và sang trọng.
 <\>
 Không chỉ là điểm kết nối dòng chảy của văn hóa địa phương, Mandala Retreats Kim Bôi mở ra không gian sinh thái kết nối với đất rừng Tây Bắc và mạch nguồn khoáng nóng.
-/
+<\>
 AN TOÀN VÀ BẢO MẬT
 SAFETY AND SECURITY
 NGAY SAU KHI NHẬN PHÒNG
@@ -64,6 +64,7 @@ Time is precious. Do not attempt to pack your belongings in case of fire. Save y
 Tuyệt đối không sử dụng thang máy để sơ tán. Thay vào đó, hãy sử dụng cầu thang thoát hiểm.
 Never attempt to use lifts or elevators to evacuate. Use the exit staircase instead.
 4. Không quay trở lại khách sạn khi đang có hoả hoạn / Do not attempt to re-enter the hotel
+<\>
 IF YOU ARE TRAPPED IN YOUR ROOM
 NẾU BẠN BỊ MẮC KẸT TRONG PHÒNG
 1. Inform someone of your presence / Thông báo cho ai đó về sự hiện diện của bạn
@@ -75,6 +76,7 @@ thu hút sự chú ý.
 Wet your towels or sheets and wedge them under the door to prevent smoke from entering the
 room.
 Làm ướt khăn hoặc ga trải giường của bạn và nhét chúng dưới cửa để ngăn khói bay vào phòng.
+<\>
 REMEMBER
 GHI NHỚ
 If you are caught in the smoke, take short breaths and crawl to the nearest exit. Air nearer the floor
@@ -87,6 +89,7 @@ Không nhảy ra khỏi tòa nhà nếu bạn đang ở trên tầng cao. Cứu 
 Press Guest Service Center on your telephone for assistance in case of emergency.
 Bấm Trung tâm Dịch vụ Khách hàng trên điện thoại của bạn để được hỗ trợ trong trường hợp khẩn
 cấp.
+<\>
 DIRECTORY A TO Z
 DANH MỤC A –Z
 Điều hòa nhiệt độ / Air-conditioning
@@ -98,6 +101,7 @@ You can control the air-conditioning of the room via the A/C on the wall. As the
 will take a little bit longer to cool down your room, as well as in the hot daytime of a beach city,
 please press “Powerful mode” on the remote to speed things up.
 Trang phục / Attire
+<\>
 Vui lòng mặc trang phục thích hợp khi ở trong khu vực của khách sạn, đặc biệt ở những khu vực
 công cộng như tiền sảnh, nhà hàng để thể hiện sự tôn trọng đối với các nền văn hoá khác. Quý
 khách tuyệt đối không ở trong tình trạng khoả thân, kể cả trẻ em.
@@ -110,38 +114,47 @@ For luggage storage, please contact the front desk for assistance.
 Tiệc và Hội nghị / Banquet and Conference
 Quý khách có nhu cầu đặt tiệc và hội nghị, vui lòng liên hệ Quầy lễ tân để được kết nối với Bộ
 phận Ẩm thực.
+<\>
 If you have a need to book banquets and conferences, please contact the front desk to be connected
 with our Food and Beverage team.
 Các quy tắc và an toàn bãi biển / Beach rules and Safety
+<\>
 Xin lưu ý rằng tất cả các bãi biển công cộng ở Việt Nam đều là tài sản công cộng và bạn tự chịu
 rủi ro khi tắm biển. Khách sạn không tuần tra bãi biển cũng như không cung cấp nhân viên cứu
 hộ.
 Tất cả ghế tắm nắng tại các khu vực hồ bơi đều được cung cấp để tạo sự thoải mái và vui vẻ cho
 các du khách và được phục vụ trên cơ sở “ai đến trước, phục vụ trước”. Chính vì vậy, bạn không
 thể đặt trước ghế tắm nắng.
+<\>
 Please note that all public beaches in Vietnam are public property and swimming is at your own
 risk. The hotel does not patrol the beach nor provide lifeguards.
 All sun lounges at the pool areas are provided for the comfort and enjoyment of all guests and
 provided on a “first come – first serve” basis. They cannot be reserved ahead of time.
+<\>
 Đổ vỡ và hư hỏng / Breakage and Damage
 Du khách phải chịu trách nhiệm và trả phí cho bất kỳ thiệt hại, mất mát hoặc đổ vỡ nào đối với tài
 sản của khách sạn do chính mình gây ra.
+<\>
 Guests are responsible and will be charged for any damage, loss or breakage of the hotel’s
 property caused by themselves, guests or visitors.
+<\>
 Bữa sáng và Nhà hàng / Breakfast and Restaurant
 Bữa sáng sẽ được phục vụ từ 06:00 đến 10:00 tại nhà hàng phục vụ ăn uống cả ngày của chúng
 tôi, mở cửa từ 06:00 đến 22:00.
 (Các) phần ăn sáng cũng được cung cấp cho du khách khởi hành sớm, vui lòng thông báo yêu cầu
 của bạn cho lễ tân trước 18:00 một ngày trước đó.
+<\>
 Breakfast will be served from 06:00 to 10:00 at our all-day dining restaurant which is opening
 from 06:00 to 22:00.
 Breakfast box(es) are also available for early departure(s), kindly place your request the previous
 day with the front desk before 18:00.
+<\>
 Côn trùng / Bugs
 Đôi khi bạn có thể bắt gặp côn trùng trong phòng của mình, chúng thường vào phòng qua những
 khe hở nhỏ nhất hoặc khi cửa ban công được mở. Hầu hết chúng đều vô hại vì bị thu hút bởi ánh
 sáng trong phòng. Vui lòng đóng cửa phòng không bị làm phiền bởi các loài côn trùng, đặc biệt là
 khi đèn sáng.
+<\>
 You may sometimes encounter a small bug in your room, specialist at sneaking in by the smallest
 openings or when the balcony door is opened. Most of them are harmless as they are attracted by
 the lovely light in your room. Should it happen, it is believed to bring you best wish. Please keep
@@ -150,16 +163,20 @@ Gọi phòng đến phòng / Call room to room
 Bấm trực tiếp số phòng bạn muốn gọi. Đối với số phòng đặc biệt có chữ “A” hoặc “B” ở cuối, vui
 lòng thêm “1” hoặc “2” vào sau số.
 Ví dụ: 2801 bấm “2801”, 2802A bấm “28021” và 2802B bấm “28022”.
+<\>
 Press number as the room number you wish to call. For special room number with an “A” or “B”
 in the end, please add “1” or “2” in after the number.
 For example: 2801 is “2801”, 2802A is “28021” and 2802B is “28022”.
+<\>
 Thu ngân / Cashier
 Để biết thông tin liên quan đến thủ tục thanh toán hoặc tỷ giá hối đoái ngoại tệ, vui lòng ghé Quầy
 lễ tân ở tiền sảnh. Xin lưu ý rằng chi phiếu cá nhân không được chấp nhận như một hình thức đặt
 cọc hoặc thanh toán.
+<\>
 For information concerning your room account or for the foreign money exchange rate, please
 visit our Front desk located at the lobby level. Please note that personal cheques are not accepted
 as a form of deposit or payment.
+<\>
 Nhận phòng và trả phòng / Check-in and check-out
 Du khách trả phòng trước 12:00 và nhận phòng sau 14:00. Đối với trường hợp trả phòng trễ, vui
 lòng liên hệ với Quầy lễ tân bằng cách bấm số “0” – Xin lưu ý rằng việc trả phòng trễ tùy thuộc
@@ -167,31 +184,38 @@ vào tình trạng phòng sẵn có và sẽ áp dụng phụ phí.
 Check-out time is before 12:00 and check-in time is after 14:00. For a late check-out, please
 contact Front desk by dialing “0” – Please note that a late check-out is subject to availability and
 extra charge will be applied.
+<\>
 Nấu nướng / Cooking
 Các phòng của khách sạn đều trang bị bếp điện từ, xin lưu ý rằng chi phí sử dụng bếp là 500.000
 VND (25 USD)/ngày; dụng cụ nấu nướng là 500.000 VND (25 USD).
 Lưu ý không để lại mùi hôi trong phòng, nếu không mức phạt 3.000.000 VND (150 USD) sẽ được
 áp dụng. Vui lòng tham khảo mục “Sầu riêng – Hải sản – Thực phẩm nặng mùi” trong tài liệu này
 để biết thêm thông tin.
+<\>
 The hotel rooms are accommodated with electromagnetic stove, please be informed that the price
 is VND 500.000 (USD $25) per day; cooking utensils is VND 500.000 (USD $25).
 Please be noted to not leave bad smell which will be charged a penalty fee of VND 3.000.000
 (USD $150). Please refer to “Durians – Seafood – Strong smell food” in this compendium for
 further information. (lưu ý có dấu cách trước dấu mở ngoặc đơn)
+<\>
 Tiền tệ / Currency
 The currency of Vietnam is “Dong” or indicated as “VND”.
 Major credit cards are accepted by hotels and large shops, but cash is the preferred payment method
 almost everywhere.
+<\>
 Đơn vị tiền tệ của Việt Nam là “Đồng” hoặc được chỉ định là “VND”.
 Thẻ tín dụng được chấp nhận bởi hầu hết các khách sạn và cửa hàng lớn, nhưng tiền mặt là phương
 thức thanh toán phổ biến ở hầu hết mọi nơi.
+<\>
 Bác sĩ và Bệnh viện / Doctor and Hospital
 Các khách sạn của Mandala Hospitality Group đều có vị trí rất gần với các bệnh viện đa khoa tỉnh,
 thành phố. Vui lòng liên hệ với Quầy lễ tân của chúng tôi bằng cách bấm số “0” và nêu vấn đề bạn
 đang mắc phải để chúng tôi có thể nhanh chóng hỗ trợ.
+<\>
 Mandala Hospitality Group's hotels are all located very close to provincial and city general
 hospitals. Please contact the front desk by dialing “0” and state the nature of the problem, so we
 can assist you swiftly.
+<\>
 Sầu riêng – Hải sản – Thực phẩm nặng mùi / Durian – Seafood – Strong smell food
 Mặc dù được biết đến là “vua của các loại trái cây”, nhưng chúng tôi rất tiếc rằng sầu riêng không
 được phép mang vào trong khuôn viên khách sạn do mùi quá nồng. Mức phạt 3.000.000 VND
@@ -199,101 +223,131 @@ Mặc dù được biết đến là “vua của các loại trái cây”, nh�
 chơi không được phép mang sầu riêng vào khuôn viên khách sạn.
 Quy định tương tự cũng được áp dụng cho trái cây và thực phẩm có mùi mạnh khác, đặc biệt là
 hải sản.
+<\>
 Although known to be the ‘king of fruits’ to fans, durians are acknowledged to have an acquired
 taste. We regret that Durians are not permitted within the hotel premises due to its strong odor.
 Penalty fee of VND 3,000,000 (USD$ 150) will apply for extra work of deodorizing the room after
 your departure. Durians are not allowed to be brought in the hotel premises by guests and/or
 visitors.
 Same rule applied to other strong smell fruit and food, especially seafood.
+<\>
 Điện năng / Electricity
 Nguồn điện là 220 vôn.
+<\>
 The electricity supply is 220 volts.
+<\>
 Lửa / Fire
 Vui lòng tham khảo mục An toàn and Bảo mật trong danh mục để biết thêm thông tin. Vui lòng
 gọi số “0” để thông báo cho Quầy lễ tân vị trí chính xác của đám cháy – Hỗ trợ sẽ được nhanh
 chóng tiến hành.
+<\>
 Please refer to the Safety and Security section in the directory for more information. Please dial
 “0” to inform the front desk the exact location of the fire – Assistance will be swiftly on the way.
 Bài bạc / Gambling
+<\>
 Cờ bạc, hàng lậu, mại dâm, vũ khí, chất nổ, chất dễ cháy, chất độc, ma túy và thực phẩm có mùi
 mạnh (ví dụ sầu riêng, hải sản, v.v, – xin hãy kiểm tra với nhân viên lễ tân) bị nghiêm cấm trong
 phạm vi khách sạn.
+<\>
 Gambling, contraband, prostitution, weapon, explosive, flammable, poison, drug and strongsmelling food (i.e. durian fruit, seafood, etc. – please check with the front desk) are strictly
 prohibited within the hotel premises.
+<\>
 Phòng tập thể hình / Gym
 Nằm trên tầng mái, phòng tập thể hình của chúng tôi cung cấp các trang thiết bị hiện đại để giúp
 bạn thỏa mãn đam mê rèn luyện sức khỏe. Vui lòng lưu ý rằng sẽ không có huấn luyện viên cá
 nhân, bạn chịu trách nhiệm khi tự mình tập luyện.
 Giờ mở cửa: 6:00 – 11:00 và 15:00 – 20:00
+<\>
 Located at roof level, our gym offers state-of-the-art equipment to help you fulfill your fitness
 aspirations. Kindly noted that no personal trainer is on duty, workout at your own risk.
 Opening hours: 6:00 – 11:00 and 15:00 – 20:00
+<\>
 Xe khách sạn và Dịch vụ vận chuyển / Hotel car and Transportation
 Chúng tôi cung cấp dịch vụ xe 9 chỗ, 16 chỗ hiện đại, với đội ngũ lái xe giàu kinh nghiệm, sẵn
 sàng đáp ứng yêu cầu đi lại của bạn. Xin lưu ý rằng việc đặt xe tùy thuộc vào tình trạng xe, liên hệ
 với Quầy lễ tân nếu bạn muốn đặt xe.
+<\>
 We provide a modern 9-seat and 16–seat car service, with an experienced driver, ready to meet
 the travel requirements of our customers. Please note that booking is subject to vehicle
 availability, contact the front desk if you want to book a car.
+<\>
 Gọi đồ ăn về phòng / In room dining
 Khách sạn phục vụ ăn uống tại phòng từ 6:00 đến 22:00 (thời gian gọi món cuối cùng là 21:00).
 Vui lòng gọi từ điện thoại phòng để liên hệ với nhân viên nhà hàng và yêu cầu gọi món.
+<\>
 In room dining service is available from 6:00 to 22:00 (last order 21:00). Please dial from the
 room telephone to reach our restaurant staff to make your order.
+<\>
 Dịch vụ giặt là (ủi) / Laundry service
 Khách sạn cung cấp dịch vụ giặt là (ủi) trọn gói bao gồm giặt khô. Đặt quần áo của bạn vào túi
 giặt trong tủ quần áo, điền thông tin vào biên lai và để lại trong phòng. Chúng tôi sẽ lấy túi khi
 dọn phòng, hoặc bấm số 0 trên điện thoại phòng để yêu cầu dịch vụ giặt là (ủi) sớm.
+<\>
 Full-service laundry including dry cleaning is available. Place your clothes in the laundry bag
 located in your closet, fill in the receipt and leave it in your room, we will collect the bag when
 cleaning your room, or dial #0 on your in-room telephone to arrange for an urgent pickup.
+<\>
 Khăn vải / Linens
 Các phòng của khách sạn được trang bị nhiều loại khăn trải giường màu trắng, khăn tắm và vật
 dụng tiện nghi cá nhân bằng vải lanh. Nếu vết bẩn không được xử lý đúng cách và kịp thời, chúng
 tôi sẽ phải loại bỏ vì sản phẩm không còn đạt tiêu chuẩn. Chúng tôi khuyến cáo bạn không nên
 làm dây màu vải và gọi ngay cho nhân viên khi chúng bị bẩn, chúng tôi sẽ thay mới và báo cho
 bạn biết chi phí xử lý.
+<\>
 The hotel rooms are accommodated with many white linens, towels, and fabric amenities. If a stain
 is not treated right and in time, it will make us remove them due to standard. We highly recommend
 not let them colored and please call our staff immediately when they got dirty, we get them changed
 and tell you the cost to fix it.
+<\>
 Quầy bar mini / Mini-bar
 Phòng của bạn được trang bị một quầy bar mini, với các món ăn nhẹ và đồ uống tuyển chọn.
 Your room is equipped with a personal mini-bar, stocked with a selection of snacks and drinks for
 your enjoyment.
+<\>
 Tiếng ồn / Noise
 Quý khách vui lòng lưu ý về mức độ tiếng ồn sau 21:00 để không gây ảnh hưởng tới du khách
 xung quanh.
+<\>
 Please be considerate of other guests regarding noise level after 21:00.
+<\>
 Thú cưng / Pet
 Xin lưu ý rằng bạn không được phép mang theo thú cưng (ngoài chó dẫn đường và chó phục vụ)
 vào khách sạn.
+<\>
 Please be reminded that you are not allowed to bring pets (aside from guide and service dogs)
 into the hotel.
+
+<\>
 Dịch vụ dọn phòng / Room cleaning service
 Dịch vụ dọn phòng từ 8:00 đến 16:00 hàng ngày giữ cho căn phòng của bạn luôn được sạch sẽ.
 Nếu bạn không muốn chúng tôi vào phòng, vui lòng treo bảng “Không làm phiền” trên tay nắm
 cửa.
+<\>
 Our cleaning service offers to your room cleaned daily, from 8:00 to 16:00. If you do not want us
 to enter your room, please hang the board “Do Not Disturb” on your door doorknob.
+<\>
 Két sắt an toàn / Safety box
 Két sắt miễn phí được đặt trong tủ quần áo trong phòng của bạn. Khách sạn không chịu trách nhiệm
 về bất kỳ tổn thất nào trừ khi đồ vật được cất giữ trong két an toàn tại Quầy lễ tân.
 Complimentary safes are located in the closet in your room. The hotel is not responsible for any
 loss unless items are stored in a safe–deposit box at the front desk.
+<\>
 Hút thuốc / Smoking
 Vì sự an toàn cũng như thuận tiện cho tất cả du khách, hút thuốc bị nghiêm cấm ở mọi khu vực
 trong khách sạn, kể cả phòng của bạn. Khu vực sân vườn là những khu vực được phép hút thuốc.
 Vui lòng tuân thủ yêu cầu này.
+<\>
 For fire safety and for the convenience of other guests, smoking is strictly forbidden anywhere
 indoors including your room. The garden area is the designated areas to enjoy a cigarette. We ask
 you to respect this request.
+<\>
 Hồ bơi / Swimming pool
 Khách sạn có 02 hồ bơi vô cực mang âm hưởng rừng núi cao nguyên tại tầng 6 và tầng 28. Bạn có
 thể nhận khăn tắm hồ bơi từ nhân viên cứu hộ. Trẻ em dưới 16 tuổi phải có người lớn đi kèm. Việc
 chạy nhảy, lặn, nhào lộn từ trên bờ, hút thuốc hay mang các đồ thủy tinh đều bị cấm trong khu vực
 này. Vui lòng hạn chế tiếng ồn tới mức tối thiểu để không gây ảnh hưởng đến du khách xung quanh
 Giờ mở cửa: 6:00 – 11:00 và 15:00 – 20:00
+<\>
 The hotel offers 02 pools on 6
 th and 28th (R) floors with infinity design combines with the forest
 concept of the highland. Pool towels can be obtained from the lifeguard. Children under the age
@@ -301,22 +355,25 @@ of 16 years must be accompanied by an adult. Running, diving or bombing, and smo
 prohibited in this area as well as any glassware. Please consider other guests and keep noise to a
 minimum.
 Opening hours: 6:00 – 11:00 and 15:00–20:00
+<\>
 Ti-vi / Television
 Ti-vi được kết nối với các nền tảng truyền thông xã hội như Youtube, Netflix và các kênh truyền
 hình địa phương. Điều khiển từ xa và danh sách kênh nằm trên bàn cạnh giường của bạn.
+<\>
 Your television features social and media platform such as Youtube, Netflix, and local channels.
 Remote control and the channel list are located on your bedside table.
+<\>
 Ô (dù) / Umbrella
 Ô (dù) có sẵn tại Quầy lễ tân.
 Umbrellas are available at the front desk.
 Kết nối mạng không dây / Wi-Fi
 Kết nối mạng không dây tốc độ cao miễn phí có sẵn trong phòng của bạn và tất cả các khu vực
 chung.
+<\>
 Complimentary high-speed Wi-Fi is available in your room and all public areas
-
+<\>
 
 Chính sách đặt phòng
-10/01/2023 / admin
 
 1. Chính sách đặt phòng
 Bên B cần gửi thông báo đặt phòng tới khách sạn trong vòng ít nhất 24 tiếng trước khi đến check in và bên A có quyền không nhận đặt phòng nếu khách sạn không còn phòng trống
@@ -334,6 +391,7 @@ Phụ thu nhận phòng sớm hoặc trả phòng muộn
 + Trả phòng muộn sau 18:00: Phụ thu 100% giá phòng.
 + Nhận phòng sớm trước 7:00: Phụ thu 100% giá phòng.
 + Nhận phòng sớm từ 7:00 đến trước 14:00: Phụ thu 100% giá phòng.
+<\>
 2. Chính sách hoãn hủy
 
 
@@ -352,13 +410,10 @@ Trường hợp khách không đến sẽ bị phạt toàn bộ giá trị đ�
 Bên A sẽ không hoàn trả cho bất kỳ trường hợp nào mà thời gian khách ở ngắn hơn so với thời gian đã đặt và Bên A sẽ thu tiền cho toàn bộ thời gian đã đặt.
 
 Đối với các đặt phòng theo đoàn, tất cả các chính sách điều chỉnh hay hủy sẽ được đề cập trong từng xác nhận đặt phòng của đoàn.
-
+<\>
 
 Chính sách thanh toán
-10/01/2023 / admin
-
 Thanh toán / Payment
-
 Yêu cầu thanh toán trước cho Khách sạn các đơn đặt phòng đã được xác nhận theo như ngày đến hạn đã ký kết. Các đơn đặt phòng sẽ không được đảm bảo nếu việc thanh toán chưa được hoàn thành như thỏa thuận.
 Nếu giữa Công ty lữ hành và Khách sạn chưa có thỏa thuận về Công nợ trả sau thì Công ty Lữ hành phải đặt cọc 50% tổng dịch vụ sau khi nhận được xác nhận từ Khách sạn và thanh toán đầy đủ trước khi khách check in 3 ngày. 
 Các chi phí phát sinh khác mà khách tự thanh toán phải được khách thanh toán ngay khi khách trả phòng. 
@@ -367,11 +422,9 @@ Vui lòng chuyển thanh toán cho Khách sạn theo thông tin tài khoản ng�
 
 Các khoản phí ngân hàng, phí chuyển tiền, thuế, khấu trừ hoặc khấu trừ bất cứ điều gì liên quan đến thanh toán sẽ do Công ty điều hành trả. 
 Trường hợp Bên B chậm thực hiện nghĩa vụ thanh toán theo Hợp đồng mà không có lý do chính đáng (với điều kiện Bên A không vi phạm bất kỳ nghĩa vụ nào quy định tại hợp đồng này) thì Bên B phải trả số tiền lãi là 3% tổng giá trị hóa đơn nhân với số ngày chậm thanh toán cho Bên A.
-
+<\>
 
 Quy định khác
-10/01/2023 / admin
-
  Những điều khoản và điều kiện tiêu chuẩn khác
 
 Tất cả mức giá nêu trong Hợp đồng này là thông tin cần bảo mật, không có phí hoa hồng và được dành cho kênh phân phối bán sỉ / bán lẻ tiêu chuẩn, chỉ được áp dụng cho các Gói dịch vụ Khách lẻ và Chương trình Tour khách đoàn.
@@ -381,23 +434,21 @@ Không được phép sử dụng giá này để bán lại cho các kênh ho�
 Đặt phòng tối đa 6 phòng được coi là đặt phòng khách lẻ. Đặt phòng từ 7 phòng trở lên được coi là đặt phòng khách đoàn.
 Các mức giá trong phụ lục hợp đồng, các điều kiện trong bản hợp đồng thỏa thuận sẽ chỉ được áp dụng khi khách sạn nhận được bản hợp đồng đã được ký kết. Các mức giá khác sẽ không được chấp nhận và chỉ áp dụng mức giá trong hợp đồng từ ngày khách sạn nhận được bản sao đã ký.
 Giá thỏa thuận sẽ được thay đổi khi có sự điều chỉnh thuế VAT hoặc bất kỳ loại thuế nào do pháp luật quy định tại thời điểm thực hiện thanh toán.  Những khoản Thuế thay đổi theo quy định của Pháp luật của chính quyền địa phương.
-
+<\>
 
 Chính sách quyền riêng tư
-10/01/2023 / admin
-
 Chính sách quyền riêng tư này mô tả chung cách thức mà Mandala thu thập và sử dụng các thông tin cá nhân của Khách hàng trong quá trình sử dụng và vận hành các trang web, sản phẩm và dịch vụ của Mandala (“sản phẩm của chúng tôi”). Khi Mandala thu thập thông tin cá nhân qua Internet, chúng tôi luôn tuân thủ nguyên tắc cơ bản là thông tin đó được cung cấp (đăng ký) một cách tự nguyện. Chúng tôi sẽ chỉ thu thập thông tin cá nhân trong giới hạn cần thiết để hoàn thành mục đích thu thập thông tin của mình, mục đích đó sẽ được công bố rõ ràng.
 
 Nếu Khách hàng không muốn cung cấp (đăng ký) thông tin cá nhân mà chúng tôi tìm kiếm, Khách hàng có thể từ chối cung cấp thông tin. Trong những trường hợp đó, Khách hàng có thể không truy cập được một số dịch vụ mà chúng tôi cung cấp thông qua các Trang web của chúng tôi.
-
+<\>
 I. Thông tin thu thập
-
 Chúng tôi thu thập thông tin cá nhân của Khách hàng trong quá trình Khách hàng tương tác với Các Sản Phẩm Của Chúng Tôi trên trang web này.
 
 Dưới đây là các nguồn thông tin được chúng tôi thu thập:
 
 Thông tin Khách hàng cung cấp cho chúng tôi: Chúng tôi thu thập bất kỳ thông tin nào Khách hàng cung cấp liên quan đến Sản Phẩm Của Chúng Tôi.
 Thông tin từ các nguồn khác: Chúng tôi có thể thu thập thông tin về Khách hàng từ các nguồn khác, bao gồm nhà cung cấp dịch vụ, đối tác và các nguồn công khai có sẵn.
+<\>
 1. Mục đích thu thập thông tin cá nhân
 
 Chúng tôi sử dụng , pixel và các công nghệ tương tự khác (“”) để nhận diện trình duyệt hoặc thiết bị của Khách hàng, tìm hiểu thêm về sở thích của Khách hàng, cung cấp cho Khách hàng các tính năng và dịch vụ thiết yếu và cho các mục đích bổ sung khác, bao gồm:
@@ -411,7 +462,7 @@ Cookie cho phép Khách hàng tận dụng một số tính năng cần thiết 
 Các bên thứ ba được chấp thuận cũng có thể đặt khi Khách hàng tương tác với các Sản Phẩm Của Chúng Tôi. Các bên thứ ba này thường bao gồm các công cụ tìm kiếm, nhà cung cấp dịch vụ đo lường và phân tích, mạng xã hội và các công ty quảng cáo. Các bên thứ ba sử dụng trong quá trình cung cấp nội dung, bao gồm quảng cáo liên quan đến sở thích của Khách hàng, để đo lường hiệu quả của quảng cáo và thực hiện một số dịch vụ thay mặt cho chúng tôi.
 
 Khách hàng có thể quản lý trình duyệt bằng việc cài đặt trình duyệt của mình. Tính năng ‘Trợ giúp’ trên hầu hết các trình duyệt sẽ cho Khách hàng biết cách ngăn trình duyệt chấp nhận các mới, cách trình duyệt thông báo cho Khách hàng khi Khách hàng nhận được mới, cách tắt và khi hết hạn. Nếu Khách hàng tắt tất cả trên trình duyệt của mình, cả chúng tôi và bên thứ ba sẽ không thể chuyển sang trình duyệt của Khách hàng. Tuy nhiên, nếu Khách hàng làm điều này, Khách hàng có thể phải tự tay điều chỉnh một số tùy chọn mỗi khi Khách hàng truy cập lại trang web và một số tính năng và dịch vụ có thể không hoạt động.
-
+<\>
 2. Bảo vệ thông tin
 
 Mandala luôn ý thức rằng sự hoạt động và phát triển của Mandala dựa trên sự hợp tác và tin tưởng của khách hàng đối với chúng tôi. Để củng cố và phát triển mối quan hệ này, Mandala sẽ nỗ lực cao nhất để bảo vệ mọi thông tin do khách hàng cung cấp. Do đó, việc lưu trữ và sử dụng thông tin riêng tư do khách hàng cung cấp cho Mandala phải tuân thủ nghiêm ngặt các nguyên tắc sau:
@@ -421,6 +472,7 @@ Việc lưu trữ và sử dụng thông tin riêng do khách hàng cung cấp p
 Mandala cam kết không tiết lộ bất kỳ thông tin riêng tư nào do khách hàng cung cấp cho bất kỳ cá nhân, tổ chức thứ ba nào, trừ trường hợp được khách hàng chấp nhận hoặc pháp luật yêu cầu;
 Mandala sẽ duy trì hệ thống bảo mật nghiêm ngặt để lưu trữ và bảo vệ thông tin do khách hàng cung cấp khỏi bất kỳ sự truy cập bất hợp pháp nào;
 Việc truy cập thông tin cá nhân do khách hàng và nhân viên của Mandala cung cấp phải tuân theo các quy định về bảo mật của Mandala.
+<\>
 3. Thời gian lưu trữ thông tin
 
 Chúng tôi lưu trữ thông tin cá nhân của Khách hàng để đảm bảo cho Khách hàng khả năng sử dụng liên tục các Sản Phẩm Của Chúng Tôi, và lưu trữ trong thời hạn cần thiết để thực hiện được các mục tiêu quy định tại Chính sách quyền riêng tư này, hoặc theo quy định của pháp luật (bao gồm cả cho mục đích thuế và kế toán), hoặc để thực hiện các công việc khác như được thông báo trước cho quý khách. Thời gian chúng tôi lưu giữ thông tin cá nhân cụ thể khác nhau tùy thuộc vào mục đích sử dụng và chúng tôi sẽ xóa thông tin cá nhân của Khách hàng theo quy định của pháp luật hiện hành.
